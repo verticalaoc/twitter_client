@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.basictwitter.ComposeActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:onClick="onClickTweet"
+        android:title="Tweet"
+    />
+
+</menu>
