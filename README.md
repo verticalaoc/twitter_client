@@ -1,3 +1,7 @@
+# Grid Image Search
+
+Time spent: 12 hours spent in total
+
 User Stories:
   * [x] User can sign in using OAuth login flow
   * [x] User can view last 25 tweets from their home timeline
@@ -19,3 +23,8 @@ User Stories:
   * [ ] Optional: Improve the user interface and theme the app to feel twitter branded
   * [ ] Stretch: User can see an embedded media (image) within tweet detail view
   * [ ] Stretch: Compose View activity is replaced with a modal overlay
+
+Walkthrough of all user stories:
+![Video Walkthrough](gif.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
