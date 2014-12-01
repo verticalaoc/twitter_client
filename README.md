@@ -25,6 +25,7 @@ User Stories:
   * [ ] Stretch: Compose View activity is replaced with a modal overlay
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](gif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
